@@ -1,0 +1,19 @@
+{
+  "name": "codor",
+  "version": "1.0.0",
+  "description": "Coding platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahi9935/Codor.git"
+  },
+  "author": "Shahi9935",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahi9935/Codor/issues"
+  },
+  "homepage": "https://github.com/Shahi9935/Codor#readme"
+}
